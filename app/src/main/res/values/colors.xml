@@ -1,0 +1,12 @@
+<resources>
+    <color name="app_bg">#F6F7FA</color>
+    <color name="app_card">#FFFFFF</color>
+    <color name="app_card_alt">#EEF1F6</color>
+    <color name="app_text">#151922</color>
+    <color name="app_muted">#606B7B</color>
+    <color name="app_divider">#E4E7EE</color>
+    <color name="app_accent">#2563EB</color>
+    <color name="app_on_accent">#FFFFFF</color>
+    <color name="icon_bg">#1A1D23</color>
+    <color name="icon_fg">#FFFFFF</color>
+</resources>
